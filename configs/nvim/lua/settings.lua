@@ -1,3 +1,6 @@
+-- colorscheme
+vim.cmd[[color elflord]]
+
 -- Set associating between turned on plugins and filetype
 vim.cmd[[filetype plugin on]]
 
